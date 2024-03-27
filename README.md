@@ -1,8 +1,8 @@
 ## Hello, I am Kummari Tejaswini.
 
-📫 How to reach me: 
-  - LinkedIn: https://www.linkedin.com/in/kummari-tejaswini/
-  - Gmail:    <tejaswinikummari01@gmail.com>
+📫 How to reach me: <br>
+[LinkedIn](https://www.linkedin.com/in/kummari-tejaswini/)<br>
+[Gmail](<tejaswinikummari01@gmail.com>)
 
 
 
