@@ -1,4 +1,4 @@
-Hello, I am *Tejaswini*.
+# Hello, I am *Tejaswini*.
 
 📫 How to reach me: <br>
 [LinkedIn](https://www.linkedin.com/in/kummari-tejaswini/)<br>
